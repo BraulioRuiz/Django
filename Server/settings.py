@@ -25,8 +25,7 @@ SECRET_KEY = 'ign(jkl2j)rt)1=b++)q)(@o8e6pk)4qnimw42e*kh20t8mxfa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['redespolitecnica5.ddns.net']
 
 # Application definition
 
